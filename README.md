@@ -6,9 +6,14 @@
 #   Children in poverty
 #   In fair or poor health 
 
+# Areas with one or more of these risk factors occur disproportionately in the US south.
+
 # Surprisingly, percent over 65 and population density correlated at virtually zero with COVID death rate in the dataset.
-# Obesity and smoking prevalence in US counties correlated very weakly.
+# Obesity and smoking prevalence in US counties correlated weakly.
 
 # Longstanding inequality in our country must be addressed.
-# We must make education, health care, and nutritious food readily accessible for all citizens.
-# We need to guarantee a living wage, subsidize child-care, and well-funded schools regardless of the income of the neighborhood.
+# We can start by prioritizing vaccine administration and delivery to the most vulnerable areas,
+# such as in Georgia, Mississippi, and Texas,
+# and by investing in public health campaigns and partnering with community leaders to increase vaccine administration.
+# We have a chance now to right the wrongs of inequality by prioritizing the vulnerable and funneling more funds
+# to areas where they are most needed to increase the wellbeing - and productivity - of our fellow citizens.
